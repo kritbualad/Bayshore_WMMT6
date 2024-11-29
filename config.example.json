@@ -6,14 +6,15 @@
     "country": "JPN",
     "regionName": "JPN0123",
     "serverIp": "127.0.0.1",
+    "notices": ["Welcome to Bayshore WMMT6"],
     "gameOptions": {
         "grantFullTuneTicketToNewUsers": 5, 
         "giftCarsFullyTuned": 0, 
         "scratchEnabled": 1, 
         "scratchType": 0, 
         "giveMeterReward": 0,
-		"newCardsBanned": 0,
+	"newCardsBanned": 0,
         "revisionCheck": 1,
-		"enableScreenshot": 0
+	"enableScreenshot": 0
     }
 }
